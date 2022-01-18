@@ -45,3 +45,13 @@
   padding: 10px;
   text-align: center;
 }
+.row {
+  justify-content: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
